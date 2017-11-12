@@ -1,0 +1,22 @@
+git init
+
+git clone <URL> ディレクトリ
+
+git add [-A|-u| .]
+
+
+-----------------
+git fetch origin
+
+git merge
+
+git commit [-a] [m "message"]
+
+git reset
+
+git push -u <URL> master:master
+
+git status
+
+git diff <file>
+
